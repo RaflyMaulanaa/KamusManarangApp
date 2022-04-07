@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kamus Manarang</string>
+    <string name="copyright">Copyright © 2020 Kamus Manarang</string>
+    <string name="text_tuliskan_hint">Tuliskan kata atau kalimat disini</string>
+</resources>

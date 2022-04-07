@@ -1,0 +1,61 @@
+com/example/kamusmanarang/Api/InterfaceApi.java
+ com.example.kamusmanarang.Api.InterfaceApi
+com/example/kamusmanarang/Api/Model/DaftarKata_respon.java
+ com.example.kamusmanarang.Api.Model.DaftarKata_respon
+com/example/kamusmanarang/SplashActivity.java
+ com.example.kamusmanarang.SplashActivity
+ com.example.kamusmanarang.SplashActivity$1
+com/example/kamusmanarang/BuildConfig.java
+ com.example.kamusmanarang.BuildConfig
+com/example/kamusmanarang/Adapter/AdapterDaftarKata.java
+ com.example.kamusmanarang.Adapter.AdapterDaftarKata
+ com.example.kamusmanarang.Adapter.AdapterDaftarKata$1
+ com.example.kamusmanarang.Adapter.AdapterDaftarKata$1$1
+ com.example.kamusmanarang.Adapter.AdapterDaftarKata$1$1$1
+ com.example.kamusmanarang.Adapter.AdapterDaftarKata$MyViewHolder
+com/example/kamusmanarang/Api/Model/DaftarKata.java
+ com.example.kamusmanarang.Api.Model.DaftarKata
+com/example/kamusmanarang/DaftarKataActivity.java
+ com.example.kamusmanarang.DaftarKataActivity
+ com.example.kamusmanarang.DaftarKataActivity$1
+ com.example.kamusmanarang.DaftarKataActivity$2
+ com.example.kamusmanarang.DaftarKataActivity$3
+ com.example.kamusmanarang.DaftarKataActivity$4
+ com.example.kamusmanarang.DaftarKataActivity$5
+ com.example.kamusmanarang.DaftarKataActivity$6
+com/example/kamusmanarang/Api/Model/Bahasa.java
+ com.example.kamusmanarang.Api.Model.Bahasa
+com/example/kamusmanarang/Adapter/AdapterPilihBahasa.java
+ com.example.kamusmanarang.Adapter.AdapterPilihBahasa
+ com.example.kamusmanarang.Adapter.AdapterPilihBahasa$1
+com/example/kamusmanarang/DataKosakataActivity.java
+ com.example.kamusmanarang.DataKosakataActivity
+ com.example.kamusmanarang.DataKosakataActivity$1
+ com.example.kamusmanarang.DataKosakataActivity$1$1
+com/example/kamusmanarang/Api/Model/Data_respon.java
+ com.example.kamusmanarang.Api.Model.Data_respon
+com/example/kamusmanarang/MainActivity.java
+ com.example.kamusmanarang.MainActivity
+ com.example.kamusmanarang.MainActivity$1
+ com.example.kamusmanarang.MainActivity$10
+ com.example.kamusmanarang.MainActivity$11
+ com.example.kamusmanarang.MainActivity$12
+ com.example.kamusmanarang.MainActivity$2
+ com.example.kamusmanarang.MainActivity$3
+ com.example.kamusmanarang.MainActivity$4
+ com.example.kamusmanarang.MainActivity$5
+ com.example.kamusmanarang.MainActivity$5$1
+ com.example.kamusmanarang.MainActivity$6
+ com.example.kamusmanarang.MainActivity$7
+ com.example.kamusmanarang.MainActivity$8
+ com.example.kamusmanarang.MainActivity$9
+com/example/kamusmanarang/Api/Client.java
+ com.example.kamusmanarang.Api.Client
+com/example/kamusmanarang/Api/Model/DataUser.java
+ com.example.kamusmanarang.Api.Model.DataUser
+com/example/kamusmanarang/Storage/SharedPMUser.java
+ com.example.kamusmanarang.Storage.SharedPMUser
+com/example/kamusmanarang/LoginActivity.java
+ com.example.kamusmanarang.LoginActivity
+ com.example.kamusmanarang.LoginActivity$1
+ com.example.kamusmanarang.LoginActivity$1$1

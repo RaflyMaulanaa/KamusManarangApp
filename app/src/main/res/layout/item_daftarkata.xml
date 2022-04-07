@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:id="@+id/linearKosakata"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        tools:ignore="MissingConstraints"
+        android:padding="15dp"
+        android:foreground="?android:attr/selectableItemBackground"
+        android:clickable="true">
+        <TextView
+            android:id="@+id/tv_indonesia"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Indonesia"
+            android:textSize="20sp"
+            android:paddingBottom="5dp"
+            android:fontFamily="@font/roboto_regular"
+            android:textColor="@color/cardview_dark_background"/>
+        <TextView
+            android:id="@+id/tv_mamuju"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Mamuju"
+            android:textSize="19sp"
+            android:fontFamily="@font/roboto_regular"/>
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
